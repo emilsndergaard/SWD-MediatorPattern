@@ -1,0 +1,15 @@
+C:\Users\emils\OneDrive - Aarhus Universitet (1)\6. Semester\Backend\Git\BED-01\Authentication\MediatorPatternHospital\MediatorPatternHospital\bin\Debug\net6.0\MediatorPatternHospital.exe
+C:\Users\emils\OneDrive - Aarhus Universitet (1)\6. Semester\Backend\Git\BED-01\Authentication\MediatorPatternHospital\MediatorPatternHospital\bin\Debug\net6.0\MediatorPatternHospital.deps.json
+C:\Users\emils\OneDrive - Aarhus Universitet (1)\6. Semester\Backend\Git\BED-01\Authentication\MediatorPatternHospital\MediatorPatternHospital\bin\Debug\net6.0\MediatorPatternHospital.runtimeconfig.json
+C:\Users\emils\OneDrive - Aarhus Universitet (1)\6. Semester\Backend\Git\BED-01\Authentication\MediatorPatternHospital\MediatorPatternHospital\bin\Debug\net6.0\MediatorPatternHospital.dll
+C:\Users\emils\OneDrive - Aarhus Universitet (1)\6. Semester\Backend\Git\BED-01\Authentication\MediatorPatternHospital\MediatorPatternHospital\bin\Debug\net6.0\ref\MediatorPatternHospital.dll
+C:\Users\emils\OneDrive - Aarhus Universitet (1)\6. Semester\Backend\Git\BED-01\Authentication\MediatorPatternHospital\MediatorPatternHospital\bin\Debug\net6.0\MediatorPatternHospital.pdb
+C:\Users\emils\OneDrive - Aarhus Universitet (1)\6. Semester\Backend\Git\BED-01\Authentication\MediatorPatternHospital\MediatorPatternHospital\obj\Debug\net6.0\MediatorPatternHospital.csproj.AssemblyReference.cache
+C:\Users\emils\OneDrive - Aarhus Universitet (1)\6. Semester\Backend\Git\BED-01\Authentication\MediatorPatternHospital\MediatorPatternHospital\obj\Debug\net6.0\MediatorPatternHospital.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emils\OneDrive - Aarhus Universitet (1)\6. Semester\Backend\Git\BED-01\Authentication\MediatorPatternHospital\MediatorPatternHospital\obj\Debug\net6.0\MediatorPatternHospital.AssemblyInfoInputs.cache
+C:\Users\emils\OneDrive - Aarhus Universitet (1)\6. Semester\Backend\Git\BED-01\Authentication\MediatorPatternHospital\MediatorPatternHospital\obj\Debug\net6.0\MediatorPatternHospital.AssemblyInfo.cs
+C:\Users\emils\OneDrive - Aarhus Universitet (1)\6. Semester\Backend\Git\BED-01\Authentication\MediatorPatternHospital\MediatorPatternHospital\obj\Debug\net6.0\MediatorPatternHospital.csproj.CoreCompileInputs.cache
+C:\Users\emils\OneDrive - Aarhus Universitet (1)\6. Semester\Backend\Git\BED-01\Authentication\MediatorPatternHospital\MediatorPatternHospital\obj\Debug\net6.0\MediatorPatternHospital.dll
+C:\Users\emils\OneDrive - Aarhus Universitet (1)\6. Semester\Backend\Git\BED-01\Authentication\MediatorPatternHospital\MediatorPatternHospital\obj\Debug\net6.0\ref\MediatorPatternHospital.dll
+C:\Users\emils\OneDrive - Aarhus Universitet (1)\6. Semester\Backend\Git\BED-01\Authentication\MediatorPatternHospital\MediatorPatternHospital\obj\Debug\net6.0\MediatorPatternHospital.pdb
+C:\Users\emils\OneDrive - Aarhus Universitet (1)\6. Semester\Backend\Git\BED-01\Authentication\MediatorPatternHospital\MediatorPatternHospital\obj\Debug\net6.0\MediatorPatternHospital.genruntimeconfig.cache
